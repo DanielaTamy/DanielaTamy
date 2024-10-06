@@ -1,4 +1,5 @@
 👋 Olá! Eu sou a Daniela Tamy
+
 🎓 Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas na UFPR 🏫
 
 💻 Aqui você encontrará alguns dos meus projetos e experiências na área de programação!
